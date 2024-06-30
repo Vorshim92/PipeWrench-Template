@@ -42,6 +42,7 @@
     "eslint-import-resolver-typescript": "^3.5.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-prettier": "^4.2.1",
+    "lint-staged": "^15.2.7",
     "lua-types": "^2.13.1",
     "npm-watch": "^0.13.0",
     "prettier": "^2.7.1",
@@ -55,5 +56,6 @@
     "@asledgehammer/pipewrench-events": "^41.73.0",
     "fs-extra": "^11.2.0",
     "husky": "^9.0.11"
-  }
+  },
+  "lint-staged": {}
 }
