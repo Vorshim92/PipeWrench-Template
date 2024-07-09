@@ -52,7 +52,7 @@
   "dependencies": {
     "@asledgehammer/pipewrench": "41.78.16",
     "@asledgehammer/pipewrench-events": "^41.73.0",
-    "fs-extra": "^10.1.0",
+    "fs-extra": "^11.2.0",
     "latest": "^0.2.0"
   }
 }
